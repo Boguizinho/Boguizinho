@@ -14,18 +14,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boguizinho/Boguizinho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boguizinho/Boguizinho/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Boguizinho/Boguizinho/output/github-contribution-grid-snake.svg">
-</picture>
-<br><br>
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Boguizinho&icon=1&color=6)](https://visitcount.itsvg.in)
+###
+![gifmaker_me (1)](https://github.com/Boguizinho/Boguizinho/assets/117605413/5068b8b6-6b3b-4e5e-86ec-3dc6203c8ac2)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
